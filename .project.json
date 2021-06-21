@@ -1,0 +1,27 @@
+{
+  "uuid": "4cddc4ca-0db6-4525-a0a9-e00117fafd8a",
+  "name": "2562_sebaceous_tumour_RNAseq",
+  "description": "RNASeq analysis of project 6406 (SIN3B role in melanoma resistance and progression)",
+  "status": "active",
+  "owner": "Alastair Droop <ad33@sanger.ac.uk>",
+  "gdpr_contact": "David Adams <da1@sanger.ac.uk>",
+  "maintainers": [
+    "Alastair Droop <ad33@sanger.ac.uk>",
+    "Larissa Matsuyama <ls28@sanger.ac.uk>"
+  ],
+  "gdpr_human": "unknown",
+  "gdpr_identifiable": "unknown",
+  "created": "2021-06-21 10:35:25 +0000",
+  "modified": "2021-06-21 10:57:57 +0000",
+  "tags": [],
+  "sequencescape": {
+    "id": 6406,
+    "title": "SIN3B role in melanoma resistance and progression",
+    "url": "http://sequencescape.psd.sanger.ac.uk/studies/6406"
+  },
+  "canapps": {
+    "id": 2581,
+    "title": "RNAseq - (CP) SIN3B role in melanoma resistance and progression",
+    "url": "https://canapps.sanger.ac.uk/action/Cancer_Pipeline_ProjectViewer?project_id=2581"
+  }
+}

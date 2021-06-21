@@ -1,0 +1,662 @@
+{
+    "project": "2581",
+    "project_path": "/nfs/cancer_ref01/nst_links/live/2581",
+    "samples": {
+        "A2058_CONTROL_C2_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N1/A2058_CONTROL_C2_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N1/A2058_CONTROL_C2_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N1/A2058_CONTROL_C2_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N1/A2058_CONTROL_C2_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C2_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N2/A2058_CONTROL_C2_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N2/A2058_CONTROL_C2_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N2/A2058_CONTROL_C2_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N2/A2058_CONTROL_C2_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C2_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N4/A2058_CONTROL_C2_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N4/A2058_CONTROL_C2_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N4/A2058_CONTROL_C2_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N4/A2058_CONTROL_C2_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C2_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N5/A2058_CONTROL_C2_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N5/A2058_CONTROL_C2_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N5/A2058_CONTROL_C2_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C2_N5/A2058_CONTROL_C2_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C3_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N1/A2058_CONTROL_C3_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N1/A2058_CONTROL_C3_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N1/A2058_CONTROL_C3_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N1/A2058_CONTROL_C3_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C3_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N2/A2058_CONTROL_C3_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N2/A2058_CONTROL_C3_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N2/A2058_CONTROL_C3_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N2/A2058_CONTROL_C3_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C3_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N3/A2058_CONTROL_C3_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N3/A2058_CONTROL_C3_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N3/A2058_CONTROL_C3_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N3/A2058_CONTROL_C3_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C3_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N4/A2058_CONTROL_C3_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N4/A2058_CONTROL_C3_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N4/A2058_CONTROL_C3_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N4/A2058_CONTROL_C3_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C3_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N5/A2058_CONTROL_C3_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N5/A2058_CONTROL_C3_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N5/A2058_CONTROL_C3_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C3_N5/A2058_CONTROL_C3_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C4_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N1/A2058_CONTROL_C4_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N1/A2058_CONTROL_C4_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N1/A2058_CONTROL_C4_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N1/A2058_CONTROL_C4_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C4_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N2/A2058_CONTROL_C4_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N2/A2058_CONTROL_C4_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N2/A2058_CONTROL_C4_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N2/A2058_CONTROL_C4_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C4_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N3/A2058_CONTROL_C4_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N3/A2058_CONTROL_C4_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N3/A2058_CONTROL_C4_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N3/A2058_CONTROL_C4_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_CONTROL_C4_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N5/A2058_CONTROL_C4_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N5/A2058_CONTROL_C4_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N5/A2058_CONTROL_C4_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_CONTROL_C4_N5/A2058_CONTROL_C4_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C18_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N1/A2058_SIN3B_KO_C18_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N1/A2058_SIN3B_KO_C18_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N1/A2058_SIN3B_KO_C18_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N1/A2058_SIN3B_KO_C18_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C18_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N2/A2058_SIN3B_KO_C18_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N2/A2058_SIN3B_KO_C18_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N2/A2058_SIN3B_KO_C18_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N2/A2058_SIN3B_KO_C18_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C18_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N3/A2058_SIN3B_KO_C18_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N3/A2058_SIN3B_KO_C18_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N3/A2058_SIN3B_KO_C18_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N3/A2058_SIN3B_KO_C18_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C18_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N4/A2058_SIN3B_KO_C18_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N4/A2058_SIN3B_KO_C18_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N4/A2058_SIN3B_KO_C18_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N4/A2058_SIN3B_KO_C18_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C18_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N5/A2058_SIN3B_KO_C18_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N5/A2058_SIN3B_KO_C18_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N5/A2058_SIN3B_KO_C18_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C18_N5/A2058_SIN3B_KO_C18_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C20_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N1/A2058_SIN3B_KO_C20_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N1/A2058_SIN3B_KO_C20_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N1/A2058_SIN3B_KO_C20_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N1/A2058_SIN3B_KO_C20_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C20_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N2/A2058_SIN3B_KO_C20_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N2/A2058_SIN3B_KO_C20_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N2/A2058_SIN3B_KO_C20_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N2/A2058_SIN3B_KO_C20_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C20_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N3/A2058_SIN3B_KO_C20_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N3/A2058_SIN3B_KO_C20_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N3/A2058_SIN3B_KO_C20_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N3/A2058_SIN3B_KO_C20_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C20_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N4/A2058_SIN3B_KO_C20_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N4/A2058_SIN3B_KO_C20_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N4/A2058_SIN3B_KO_C20_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N4/A2058_SIN3B_KO_C20_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C20_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N5/A2058_SIN3B_KO_C20_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N5/A2058_SIN3B_KO_C20_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N5/A2058_SIN3B_KO_C20_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C20_N5/A2058_SIN3B_KO_C20_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C21_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N1/A2058_SIN3B_KO_C21_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N1/A2058_SIN3B_KO_C21_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N1/A2058_SIN3B_KO_C21_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N1/A2058_SIN3B_KO_C21_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C21_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N2/A2058_SIN3B_KO_C21_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N2/A2058_SIN3B_KO_C21_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N2/A2058_SIN3B_KO_C21_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N2/A2058_SIN3B_KO_C21_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C21_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N3/A2058_SIN3B_KO_C21_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N3/A2058_SIN3B_KO_C21_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N3/A2058_SIN3B_KO_C21_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N3/A2058_SIN3B_KO_C21_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C21_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N4/A2058_SIN3B_KO_C21_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N4/A2058_SIN3B_KO_C21_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N4/A2058_SIN3B_KO_C21_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N4/A2058_SIN3B_KO_C21_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A2058_SIN3B_KO_C21_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N5/A2058_SIN3B_KO_C21_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N5/A2058_SIN3B_KO_C21_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N5/A2058_SIN3B_KO_C21_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A2058_SIN3B_KO_C21_N5/A2058_SIN3B_KO_C21_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C1_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N1/A375_CONTROL_C1_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N1/A375_CONTROL_C1_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N1/A375_CONTROL_C1_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N1/A375_CONTROL_C1_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C1_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N2/A375_CONTROL_C1_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N2/A375_CONTROL_C1_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N2/A375_CONTROL_C1_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N2/A375_CONTROL_C1_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C1_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N3/A375_CONTROL_C1_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N3/A375_CONTROL_C1_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N3/A375_CONTROL_C1_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N3/A375_CONTROL_C1_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C1_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N4/A375_CONTROL_C1_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N4/A375_CONTROL_C1_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N4/A375_CONTROL_C1_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N4/A375_CONTROL_C1_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C1_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N5/A375_CONTROL_C1_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N5/A375_CONTROL_C1_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N5/A375_CONTROL_C1_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C1_N5/A375_CONTROL_C1_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C2_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N1/A375_CONTROL_C2_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N1/A375_CONTROL_C2_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N1/A375_CONTROL_C2_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N1/A375_CONTROL_C2_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C2_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N2/A375_CONTROL_C2_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N2/A375_CONTROL_C2_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N2/A375_CONTROL_C2_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N2/A375_CONTROL_C2_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C2_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N3/A375_CONTROL_C2_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N3/A375_CONTROL_C2_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N3/A375_CONTROL_C2_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N3/A375_CONTROL_C2_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C2_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N4/A375_CONTROL_C2_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N4/A375_CONTROL_C2_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N4/A375_CONTROL_C2_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N4/A375_CONTROL_C2_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C2_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N5/A375_CONTROL_C2_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N5/A375_CONTROL_C2_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N5/A375_CONTROL_C2_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C2_N5/A375_CONTROL_C2_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C3_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N1/A375_CONTROL_C3_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N1/A375_CONTROL_C3_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N1/A375_CONTROL_C3_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N1/A375_CONTROL_C3_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C3_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N2/A375_CONTROL_C3_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N2/A375_CONTROL_C3_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N2/A375_CONTROL_C3_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N2/A375_CONTROL_C3_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C3_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N3/A375_CONTROL_C3_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N3/A375_CONTROL_C3_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N3/A375_CONTROL_C3_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N3/A375_CONTROL_C3_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C3_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N4/A375_CONTROL_C3_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N4/A375_CONTROL_C3_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N4/A375_CONTROL_C3_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N4/A375_CONTROL_C3_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_CONTROL_C3_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N5/A375_CONTROL_C3_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N5/A375_CONTROL_C3_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N5/A375_CONTROL_C3_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_CONTROL_C3_N5/A375_CONTROL_C3_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C11_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N1/A375_SIN3B_KO_C11_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N1/A375_SIN3B_KO_C11_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N1/A375_SIN3B_KO_C11_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N1/A375_SIN3B_KO_C11_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C11_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N2/A375_SIN3B_KO_C11_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N2/A375_SIN3B_KO_C11_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N2/A375_SIN3B_KO_C11_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N2/A375_SIN3B_KO_C11_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C11_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N3/A375_SIN3B_KO_C11_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N3/A375_SIN3B_KO_C11_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N3/A375_SIN3B_KO_C11_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N3/A375_SIN3B_KO_C11_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C11_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N4/A375_SIN3B_KO_C11_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N4/A375_SIN3B_KO_C11_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N4/A375_SIN3B_KO_C11_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N4/A375_SIN3B_KO_C11_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C11_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N5/A375_SIN3B_KO_C11_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N5/A375_SIN3B_KO_C11_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N5/A375_SIN3B_KO_C11_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N5/A375_SIN3B_KO_C11_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C25_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N1/A375_SIN3B_KO_C25_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N1/A375_SIN3B_KO_C25_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N1/A375_SIN3B_KO_C25_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N1/A375_SIN3B_KO_C25_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C25_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N2/A375_SIN3B_KO_C25_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N2/A375_SIN3B_KO_C25_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N2/A375_SIN3B_KO_C25_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N2/A375_SIN3B_KO_C25_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C25_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N3/A375_SIN3B_KO_C25_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N3/A375_SIN3B_KO_C25_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N3/A375_SIN3B_KO_C25_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N3/A375_SIN3B_KO_C25_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C25_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N4/A375_SIN3B_KO_C25_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N4/A375_SIN3B_KO_C25_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N4/A375_SIN3B_KO_C25_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N4/A375_SIN3B_KO_C25_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C25_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N5/A375_SIN3B_KO_C25_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N5/A375_SIN3B_KO_C25_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N5/A375_SIN3B_KO_C25_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C25_N5/A375_SIN3B_KO_C25_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C26_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N2/A375_SIN3B_KO_C26_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N2/A375_SIN3B_KO_C26_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N2/A375_SIN3B_KO_C26_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N2/A375_SIN3B_KO_C26_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "A375_SIN3B_KO_C26_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N3/A375_SIN3B_KO_C26_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N3/A375_SIN3B_KO_C26_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N3/A375_SIN3B_KO_C26_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N3/A375_SIN3B_KO_C26_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C4_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N1/SKMEL28_CONTROL_C4_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N1/SKMEL28_CONTROL_C4_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N1/SKMEL28_CONTROL_C4_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N1/SKMEL28_CONTROL_C4_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C4_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N2/SKMEL28_CONTROL_C4_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N2/SKMEL28_CONTROL_C4_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N2/SKMEL28_CONTROL_C4_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N2/SKMEL28_CONTROL_C4_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C4_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N3/SKMEL28_CONTROL_C4_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N3/SKMEL28_CONTROL_C4_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N3/SKMEL28_CONTROL_C4_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N3/SKMEL28_CONTROL_C4_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C4_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N4/SKMEL28_CONTROL_C4_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N4/SKMEL28_CONTROL_C4_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N4/SKMEL28_CONTROL_C4_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N4/SKMEL28_CONTROL_C4_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C4_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N5/SKMEL28_CONTROL_C4_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N5/SKMEL28_CONTROL_C4_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N5/SKMEL28_CONTROL_C4_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C4_N5/SKMEL28_CONTROL_C4_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C6_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N2/SKMEL28_CONTROL_C6_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N2/SKMEL28_CONTROL_C6_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N2/SKMEL28_CONTROL_C6_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N2/SKMEL28_CONTROL_C6_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C6_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N3/SKMEL28_CONTROL_C6_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N3/SKMEL28_CONTROL_C6_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N3/SKMEL28_CONTROL_C6_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N3/SKMEL28_CONTROL_C6_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C6_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N4/SKMEL28_CONTROL_C6_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N4/SKMEL28_CONTROL_C6_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N4/SKMEL28_CONTROL_C6_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N4/SKMEL28_CONTROL_C6_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C6_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N5/SKMEL28_CONTROL_C6_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N5/SKMEL28_CONTROL_C6_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N5/SKMEL28_CONTROL_C6_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C6_N5/SKMEL28_CONTROL_C6_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C7_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N1/SKMEL28_CONTROL_C7_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N1/SKMEL28_CONTROL_C7_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N1/SKMEL28_CONTROL_C7_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N1/SKMEL28_CONTROL_C7_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C7_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N2/SKMEL28_CONTROL_C7_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N2/SKMEL28_CONTROL_C7_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N2/SKMEL28_CONTROL_C7_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N2/SKMEL28_CONTROL_C7_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C7_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N3/SKMEL28_CONTROL_C7_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N3/SKMEL28_CONTROL_C7_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N3/SKMEL28_CONTROL_C7_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N3/SKMEL28_CONTROL_C7_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C7_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N4/SKMEL28_CONTROL_C7_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N4/SKMEL28_CONTROL_C7_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N4/SKMEL28_CONTROL_C7_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N4/SKMEL28_CONTROL_C7_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_CONTROL_C7_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N5/SKMEL28_CONTROL_C7_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N5/SKMEL28_CONTROL_C7_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N5/SKMEL28_CONTROL_C7_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_CONTROL_C7_N5/SKMEL28_CONTROL_C7_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C11_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N1/SKMEL28_SIN3B_KO_C11_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N1/SKMEL28_SIN3B_KO_C11_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N1/SKMEL28_SIN3B_KO_C11_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N1/SKMEL28_SIN3B_KO_C11_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C11_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N2/SKMEL28_SIN3B_KO_C11_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N2/SKMEL28_SIN3B_KO_C11_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N2/SKMEL28_SIN3B_KO_C11_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N2/SKMEL28_SIN3B_KO_C11_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C11_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N4/SKMEL28_SIN3B_KO_C11_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N4/SKMEL28_SIN3B_KO_C11_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N4/SKMEL28_SIN3B_KO_C11_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N4/SKMEL28_SIN3B_KO_C11_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C11_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N5/SKMEL28_SIN3B_KO_C11_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N5/SKMEL28_SIN3B_KO_C11_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N5/SKMEL28_SIN3B_KO_C11_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C11_N5/SKMEL28_SIN3B_KO_C11_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C20_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N1/SKMEL28_SIN3B_KO_C20_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N1/SKMEL28_SIN3B_KO_C20_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N1/SKMEL28_SIN3B_KO_C20_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N1/SKMEL28_SIN3B_KO_C20_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C20_N2": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N2/SKMEL28_SIN3B_KO_C20_N2.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N2/SKMEL28_SIN3B_KO_C20_N2.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N2/SKMEL28_SIN3B_KO_C20_N2.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N2/SKMEL28_SIN3B_KO_C20_N2.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C20_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N3/SKMEL28_SIN3B_KO_C20_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N3/SKMEL28_SIN3B_KO_C20_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N3/SKMEL28_SIN3B_KO_C20_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N3/SKMEL28_SIN3B_KO_C20_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C20_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N4/SKMEL28_SIN3B_KO_C20_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N4/SKMEL28_SIN3B_KO_C20_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N4/SKMEL28_SIN3B_KO_C20_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N4/SKMEL28_SIN3B_KO_C20_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C20_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N5/SKMEL28_SIN3B_KO_C20_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N5/SKMEL28_SIN3B_KO_C20_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N5/SKMEL28_SIN3B_KO_C20_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C20_N5/SKMEL28_SIN3B_KO_C20_N5.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C26_N1": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N1/SKMEL28_SIN3B_KO_C26_N1.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N1/SKMEL28_SIN3B_KO_C26_N1.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N1/SKMEL28_SIN3B_KO_C26_N1.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N1/SKMEL28_SIN3B_KO_C26_N1.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C26_N3": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N3/SKMEL28_SIN3B_KO_C26_N3.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N3/SKMEL28_SIN3B_KO_C26_N3.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N3/SKMEL28_SIN3B_KO_C26_N3.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N3/SKMEL28_SIN3B_KO_C26_N3.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C26_N4": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N4/SKMEL28_SIN3B_KO_C26_N4.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N4/SKMEL28_SIN3B_KO_C26_N4.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N4/SKMEL28_SIN3B_KO_C26_N4.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N4/SKMEL28_SIN3B_KO_C26_N4.sample.dupmarked.bam.met.gz"
+            }
+        },
+        "SKMEL28_SIN3B_KO_C26_N5": {
+            "dupmarked": {
+                "bai": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N5/SKMEL28_SIN3B_KO_C26_N5.sample.dupmarked.bam.bai",
+                "bam": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N5/SKMEL28_SIN3B_KO_C26_N5.sample.dupmarked.bam",
+                "bamstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N5/SKMEL28_SIN3B_KO_C26_N5.sample.dupmarked.bam.bas",
+                "dupstats": "/nfs/cancer_ref01/nst_links/live/2581/SKMEL28_SIN3B_KO_C26_N5/SKMEL28_SIN3B_KO_C26_N5.sample.dupmarked.bam.met.gz"
+            }
+        }
+    }
+}
