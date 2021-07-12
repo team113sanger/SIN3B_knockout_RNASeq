@@ -21,8 +21,8 @@ export BASE="/lustre/scratch119/realdata/mdt1/team113/projects/6406_SIN3B_role_i
 cd ${BASE}/transcript-counts
 mkdir ${BASE}/transcript-counts/summarised
 SAMPLE_REGEX="[AS].+N[[:digit:]]"
-collate-counts -r${SAMPLE_REGEX} -ccount ./counts/*-counts.txt > ./summarised/2581-feature-counts-v103.txt
+collate-counts -r${SAMPLE_REGEX} -ccount ./counts/*-counts.txt > ./summarised/2581-feature-count-v103.txt
 collate-counts -r${SAMPLE_REGEX} -ctpm ./counts/*-counts.txt > ./summarised/2581-feature-tpm-v103.txt
 collate-counts -r${SAMPLE_REGEX} -cfpkm ./counts/*-counts.txt > ./summarised/2581-feature-fpkm-v103.txt
-collate-counts -r${SAMPLE_REGEX} -ccount ./metacounts/*-metacounts.txt > ./summarised/2581-metafeature-counts-v103.txt
+collate-counts -r${SAMPLE_REGEX} -ccount ./metacounts/*-metacounts.txt > ./summarised/2581-metafeature-count-v103.txt
 ~~~
