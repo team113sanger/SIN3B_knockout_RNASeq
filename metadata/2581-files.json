@@ -679,6 +679,7 @@
         },
         "A375_SIN3B_KO_C11_N2": {
             "counts": {
+                "counts": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N2/A375_SIN3B_KO_C11_N2.converted_counts.tsv.gz",
                 "htseq": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C11_N2/A375_SIN3B_KO_C11_N2.count.gz"
             },
             "dupmarked": {
@@ -858,6 +859,7 @@
         },
         "A375_SIN3B_KO_C26_N4": {
             "counts": {
+                "counts": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N4/A375_SIN3B_KO_C26_N4.converted_counts.tsv.gz",
                 "htseq": "/nfs/cancer_ref01/nst_links/live/2581/A375_SIN3B_KO_C26_N4/A375_SIN3B_KO_C26_N4.count.gz"
             },
             "dupmarked": {
