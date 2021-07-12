@@ -1,0 +1,3 @@
+count	overall maximum delta: 0.000000
+tpm	overall maximum delta: 0.005000
+fpkm	overall maximum delta: 0.005000
