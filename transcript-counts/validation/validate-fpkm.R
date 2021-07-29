@@ -4,9 +4,10 @@
 # Set the run arguments:
 args <- list(
     'ctypes' = c('count', 'tpm', 'fpkm'),
-    'samples' = file.path('..', '..', 'metadata', 'samples.txt'),
+    'samples' = file.path('..', '..', 'metadata', '2581-samples.txt'),
     'canapps.dir' = file.path('.', 'canapps-fpkm'),
-    'dermatlas.input.base' = file.path('..', 'summarised', '2581-feature-%s-v103.txt')
+    'dermatlas.input.base' = file.path('..', 'summarised', '2581-feature-%s-v103.txt'),
+    'results' = file.path('.', 'validation-results.txt')
 )
 
 # Load the samples:
