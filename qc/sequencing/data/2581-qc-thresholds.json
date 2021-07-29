@@ -1,0 +1,15 @@
+{
+    "reads": {
+        "total": [5e7, null],
+        "mapped.percent": [95, null],
+        "duplicate.percent": [null, 90],
+        "insert.size": [1000, 5000]
+    },
+    "bases": {
+        "total": [5.05e9, null],
+        "mapped.percent": [95, null],
+        "divergent.percent": [null, 1],
+        "gc.percent": [45, 55],
+        "mapped.ratio": [0.495, 0.505]
+    }
+}
