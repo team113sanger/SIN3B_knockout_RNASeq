@@ -5,3 +5,4 @@ transcript-counts/metacounts
 transcript-counts/summarised
 bam/bam/*
 qc/rseqc/results/*
+qc/SIN3B-visualisation/bam/*
