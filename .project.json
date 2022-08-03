@@ -9,10 +9,10 @@
     "Alastair Droop <ad33@sanger.ac.uk>",
     "Larissa Matsuyama <ls28@sanger.ac.uk>"
   ],
-  "gdpr_human": "unknown",
-  "gdpr_identifiable": "unknown",
+  "gdpr_human": "yes",
+  "gdpr_identifiable": "no",
   "created": "2021-06-21 10:35:25 +0000",
-  "modified": "2021-06-21 10:57:57 +0000",
+  "modified": "2022-08-03 11:18:25 +0000",
   "tags": [],
   "sequencescape": {
     "id": 6406,
