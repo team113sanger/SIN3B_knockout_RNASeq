@@ -6,3 +6,6 @@ transcript-counts/summarised
 bam/bam/*
 qc/rseqc/results/*
 qc/SIN3B-visualisation/bam/*
+transcript-counts-new/temp/*
+transcript-counts-new/logs/*
+transcript-counts-new/counts/*
