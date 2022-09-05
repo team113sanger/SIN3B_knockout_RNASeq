@@ -1,28 +1,31 @@
-# Raw Transcript Counts
+# Transcript COunting Outside Canapps
 
-## HTSeq Data Collation
+THis directory contains the code to re-count the original Canapps BAM files using [`htseq-count`](https://htseq.readthedocs.io/en/master/htseqcount.html) to avoid the strand bug.
 
-The transcript counts data are pulled directly from canapps using [sample-tpm](https://gitlab.internal.sanger.ac.uk/ad33/sample-tpm). This splits the counts and metacounts, writing the counts and metacounts to the `./counts` and `./metacounts` directories respectively.
+## Installation of HTSeq
 
-This process is performed by the `get-counts.sh` script:
-
-~~~bash
-export BASE="/lustre/scratch119/realdata/mdt1/team113/projects/6406_SIN3B_role_in_melanoma_resistance_and_progression"
-cd ${BASE}/transcript-counts
-./get-counts.sh
-~~~
-
-## Counts Matrix Collation
-
-Once individual counts data have been generated, the counts matrices are generated as:
+HTSeq was installed using `conda`:
 
 ~~~bash
-export BASE="/lustre/scratch119/realdata/mdt1/team113/projects/6406_SIN3B_role_in_melanoma_resistance_and_progression"
-cd ${BASE}/transcript-counts
-mkdir ${BASE}/transcript-counts/summarised
-SAMPLE_REGEX="[AS].+N[[:digit:]]"
-collate-counts -r${SAMPLE_REGEX} -ccount ./counts/*-counts.txt > ./summarised/2581-feature-count-v103.txt
-collate-counts -r${SAMPLE_REGEX} -ctpm ./counts/*-counts.txt > ./summarised/2581-feature-tpm-v103.txt
-collate-counts -r${SAMPLE_REGEX} -cfpkm ./counts/*-counts.txt > ./summarised/2581-feature-fpkm-v103.txt
-collate-counts -r${SAMPLE_REGEX} -ccount ./metacounts/*-metacounts.txt > ./summarised/2581-metafeature-count-v103.txt
+conda create -y -c bioconda -n htseq python numpy pysam htseq tabix
 ~~~
+
+## Running HTSeq
+
+~~~bash
+qsubsec -ps 2581-htseq-count.qsubsec 2581-htseq-count.tff SAMPLE='FILE(../../metadata/2581-samples.txt)'
+~~~
+
+## Build New Gene Reference Dataset
+
+Before counting genes, we can build the gene reference length dataset using [`build-ref`](https://gitlab.internal.sanger.ac.uk/ad33/build-ref).
+
+See the `README.md` file in the `./reference` directory for details.
+
+## Generate the Transcript Counts
+
+Individual sample TPM counts are generated using the `./scripts/convert-counts.sh` script.
+
+## Collate Counts
+
+Individual sample TPM counts are collated & summarised using the `./scripts/collate-counts.sh` script.
