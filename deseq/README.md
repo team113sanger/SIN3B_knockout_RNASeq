@@ -2,6 +2,8 @@
 
 This directory holds the scripts and results for the DESeq2 analysis of the ***SIN3B*** data.
 
+**NB**: These analyses require DESeq version 1.36.0
+
 Two analysis sets are run:
 
 1. A complete analysis where all lines are considered, and the model `~line+condition` is fitted (`all-lines`); and
