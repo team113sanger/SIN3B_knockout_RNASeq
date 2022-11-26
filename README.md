@@ -21,14 +21,14 @@ This folder contains the RNASeq analysis for Larissa's ***SIN3B*** project
 * Once generated, the sumamrised data are plotted using R.
 * The output plots are located in `./qc/sequencing/results`
 * See `./scripts/fetch-sequencing-qc.sh` for the script.
-* See [`./qc/sequencing/README.md`] for further details.
+* See `./qc/sequencing/README.md` for further details.
 
 ### 3: Build the Gene Metadata reference from the Alignment Genome
 * In order to generate TPM counts and provide sensible gene annoattion, we need to build a reference gene file from the input reference GTF file.
 * This is done using [`build-ref`](https://gitlab.internal.sanger.ac.uk/ad33/build-ref.git) version 0.1.3.
 * The complete gene reference data are located in `./metadata/genes/`.
 * See `./scripts/build-gene-reference.sh` for the script.
-* See [`./metadata/genes/README.md`] for further details.
+* See `./metadata/genes/README.md` for further details.
 
 ### 4: Obtain the HTSeq Counts files from Canapps
 
@@ -36,4 +36,10 @@ This folder contains the RNASeq analysis for Larissa's ***SIN3B*** project
 * This is done using [`sample-tpm`](https://gitlab.internal.sanger.ac.uk/DERMATLAS/sample-tpm) version 1.2.1.
 * The transcript counts data are located in `./transcript-counts`.
 * See `./scripts/fetch-transcript-counts.sh` for the script.
-* See [`./transcript-counts/README.md`] for further details.
+* See `./transcript-counts/README.md` for further details.
+
+### 5: Run DESeq
+
+* This step uses DESeq version 1.36.0 to run the downstream RNASeq analysis.
+* Two sets of analyses were performed: all lines together (`all-lines`), and each line separately (`by-line`)
+* The DESeq data are located in `deseq`
