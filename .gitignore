@@ -1,5 +1,4 @@
 **/.DS_Store
-archive/*
 transcript-counts/counts/
 transcript-counts/metacounts/
 qc/sequencing/bamstats/
