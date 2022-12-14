@@ -1,0 +1,39 @@
+{
+  "sample": "SKMEL28_CONTROL_C6_N3",
+  "platform": "ILLUMINA",
+  "library": "266071",
+  "n_read_groups": 3,
+  "insert_size": {
+    "mean": 4210.391,
+    "median": 782,
+    "sd": 12226.356
+  },
+  "total_reads": 252342808,
+  "total_bases": 25486623608,
+  "mapped_reads": 251164488,
+  "qcfail_reads": 0,
+  "mapped_pairs": 125224844,
+  "mapped_reads_properly_paired": 125224844,
+  "duplicate_reads": 98014021,
+  "interchromosme_pairs": 0,
+  "gc_ratio": 0.5026229,
+  "duplicate_ratio": 0.38841614,
+  "read_1": {
+    "read_length": 101,
+    "total_reads": 126171404,
+    "mapped_bases": 12646438114,
+    "divergent_bases": 28228011,
+    "mapped_reads": 125733700,
+    "gc_bases": 6310739798,
+    "qc_failed_reads": 0
+  },
+  "read_2": {
+    "read_length": 101,
+    "total_reads": 126171404,
+    "mapped_bases": 12619959702,
+    "divergent_bases": 28920155,
+    "mapped_reads": 125430788,
+    "gc_bases": 6499419972,
+    "qc_failed_reads": 0
+  }
+}

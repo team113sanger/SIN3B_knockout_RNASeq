@@ -1,0 +1,39 @@
+{
+  "sample": "A375_CONTROL_C2_N1",
+  "platform": "ILLUMINA",
+  "library": "266039",
+  "n_read_groups": 3,
+  "insert_size": {
+    "mean": 3542.5234,
+    "median": 604,
+    "sd": 11008.128
+  },
+  "total_reads": 170026442,
+  "total_bases": 17172670642,
+  "mapped_reads": 167598871,
+  "qcfail_reads": 0,
+  "mapped_pairs": 83549695,
+  "mapped_reads_properly_paired": 83549695,
+  "duplicate_reads": 46979701,
+  "interchromosme_pairs": 0,
+  "gc_ratio": 0.5104478,
+  "duplicate_ratio": 0.27630818,
+  "read_1": {
+    "read_length": 101,
+    "total_reads": 85013221,
+    "mapped_bases": 8438454846,
+    "divergent_bases": 19456894,
+    "mapped_reads": 83902190,
+    "gc_bases": 4326950213,
+    "qc_failed_reads": 0
+  },
+  "read_2": {
+    "read_length": 101,
+    "total_reads": 85013221,
+    "mapped_bases": 8418127993,
+    "divergent_bases": 20475269,
+    "mapped_reads": 83696681,
+    "gc_bases": 4438801687,
+    "qc_failed_reads": 0
+  }
+}

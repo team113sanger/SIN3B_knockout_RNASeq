@@ -1,0 +1,39 @@
+{
+  "sample": "A375_SIN3B_KO_C26_N1",
+  "platform": "ILLUMINA",
+  "library": "266059",
+  "n_read_groups": 3,
+  "insert_size": {
+    "mean": 3651.797,
+    "median": 693,
+    "sd": 10706.993
+  },
+  "total_reads": 203851940,
+  "total_bases": 20589045940,
+  "mapped_reads": 201629156,
+  "qcfail_reads": 0,
+  "mapped_pairs": 100504946,
+  "mapped_reads_properly_paired": 100504946,
+  "duplicate_reads": 60818605,
+  "interchromosme_pairs": 0,
+  "gc_ratio": 0.5103093,
+  "duplicate_ratio": 0.29834697,
+  "read_1": {
+    "read_length": 101,
+    "total_reads": 101925970,
+    "mapped_bases": 10154393196,
+    "divergent_bases": 22977315,
+    "mapped_reads": 100966153,
+    "gc_bases": 5178597284,
+    "qc_failed_reads": 0
+  },
+  "read_2": {
+    "read_length": 101,
+    "total_reads": 101925970,
+    "mapped_bases": 10123196420,
+    "divergent_bases": 27598129,
+    "mapped_reads": 100663003,
+    "gc_bases": 5328183283,
+    "qc_failed_reads": 0
+  }
+}

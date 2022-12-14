@@ -1,0 +1,39 @@
+{
+  "sample": "A2058_CONTROL_C4_N1",
+  "platform": "ILLUMINA",
+  "library": "266104",
+  "n_read_groups": 3,
+  "insert_size": {
+    "mean": 3759.716,
+    "median": 608,
+    "sd": 11413.82
+  },
+  "total_reads": 209349624,
+  "total_bases": 21144312024,
+  "mapped_reads": 208129417,
+  "qcfail_reads": 0,
+  "mapped_pairs": 103779676,
+  "mapped_reads_properly_paired": 103779676,
+  "duplicate_reads": 66656564,
+  "interchromosme_pairs": 0,
+  "gc_ratio": 0.5022338,
+  "duplicate_ratio": 0.3183983,
+  "read_1": {
+    "read_length": 101,
+    "total_reads": 104674812,
+    "mapped_bases": 10481531894,
+    "divergent_bases": 23564860,
+    "mapped_reads": 104194938,
+    "gc_bases": 5238942514,
+    "qc_failed_reads": 0
+  },
+  "read_2": {
+    "read_length": 101,
+    "total_reads": 104674812,
+    "mapped_bases": 10457714301,
+    "divergent_bases": 25110447,
+    "mapped_reads": 103934479,
+    "gc_bases": 5380445797,
+    "qc_failed_reads": 0
+  }
+}
