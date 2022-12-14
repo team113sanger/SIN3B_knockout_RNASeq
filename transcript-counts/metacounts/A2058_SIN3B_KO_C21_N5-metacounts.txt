@@ -1,0 +1,7 @@
+id	count
+alignment_not_unique	3023992
+ambiguous	5388112
+no_feature	2102402
+not_aligned	269919
+too_low_aQual	415342
+total_assigned	90378112
