@@ -41,6 +41,6 @@ This folder contains the RNASeq analysis for Larissa's ***SIN3B*** project
 ### 5: Run DESeq
 
 * This step uses DESeq version 1.36.0 to run the downstream RNASeq analysis.
-* Two sets of analyses were performed: all lines together (`all-lines`), and each line separately (`by-line`).
+* Two sets of analyses were performed: all lines together (`all-lines`).
 * The DESeq data are located in `deseq`.
 * See `deseq/README.md` for more details.
