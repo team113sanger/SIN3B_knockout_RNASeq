@@ -23,9 +23,9 @@ Each analysis contains:
 
 * Per-gene read counts were generated from the aligned BAM files using htseq-count;
 * Raw per-gene counts were filtered to remove any genes with fewer than 10 counts in total across all samples;
-* MDS (using both a Euclidean distrance and a Spearman dissimilarity metric) was used to assess the global behaviour of all samples.  Two clones (C18 & C21) showed aberrant behaviour and were removed from downstream analysis;
-* DESeq 1.36.0 was used to perform two analyses: one comparing all cell lines together, and one comparing each line individually;
-* The all lines analysis used the model expr ~ line + condition, whilst the indiviual line analysis used expr ~ condition;
+* A Principal Component Analysis (PCA) was used to assess the global behaviour of all samples.  Two clones (C18 & C21) showed aberrant behaviour and were removed from downstream analysis;
+* DESeq 1.36.0 was used to perform an analysis comparing all cell lines together;
+* The all lines analysis used the model expr ~ line + condition;
 * After DESeq model fitting, apeglm[1] was used to estimate posterior effect size estimators
 
 [1]: Zhu A, Ibrahim JG, Love MI (2018). “Heavy-tailed prior distributions for sequence count data: removing the noise and preserving large differences.” Bioinformatics. doi: 10.1093/bioinformatics/bty895.
